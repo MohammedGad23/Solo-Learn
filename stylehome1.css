@@ -1,0 +1,181 @@
+.platform{
+    position: relative;
+    margin-top: 8%;
+    width: 100%;
+    background-color: white;
+    padding: 7% 0%;
+    margin-bottom: 10px;
+}
+.titlePlatform, .PlatformTechnical{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    padding: 0px 10%;
+
+}
+.titlePlatform{
+    margin-bottom: 50px;
+}
+.PlatformTechnical{
+    padding: 0px 6%;
+    font-weight: normal;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.PlatformTechnical div{
+    width: 450px;
+    font-size: 19px;
+    text-align: center;
+}
+.PlatformTechnical button,.Commuinity button{
+    bottom: 0%;
+    padding: 15px 45px;
+    border-radius: 5px;
+    background-color: #149ef2;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+}
+.PlatformTechnical span{
+    font-size:17px;
+    display:block;
+    margin:25px;
+    text-align: center;
+}
+
+.Commuinity{
+    position: relative;
+    padding: 7% 0% 5%;
+    font-size: 38px;
+    text-align: center;
+    align-items: center;
+}
+.MidComunity button{
+    background-color: #40bf9c;
+}
+.MidComunity .Run{
+    margin:60px 0px;
+    border: 0px solid red;
+    border-radius: 50px;
+}
+
+.Job{
+    position: relative;
+    background-color: white;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    padding: 5% 0px 6%;
+    margin-bottom: 8%;
+    display: flex;
+}
+.Job div{
+    float: left;
+    display: flex;
+    padding: 0px 20px;
+}
+
+.Code{
+    position: relative;
+    font-size: 38px;
+    text-align: center;
+    align-items: center;
+    padding:0px 4% 50px;
+
+}
+.Code .itemCode{
+    position: relative;
+    float: left;
+    width: 262px;
+    font-size: 19px;
+    text-align: center;
+    padding: 20px 30px 30px;
+    background-color: white;
+    margin: 40px 15px 50px;
+}
+.itemCode .imgCode img{
+    position: relative;
+    margin-top: -41.5%;
+}
+.Code button{
+    cursor: pointer;
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #149ef2;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+}
+.invest{
+    position: relative;
+    background-color: #2d3846;
+    text-align: center;
+    align-items: center;
+    padding:5% 5% 6%;
+
+}
+.invest .investTitle{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
+.invest .investSection{
+    display: flex;
+    margin-bottom: 50px;
+}
+.invest .investSection .ab{
+    color: white;
+    width: 24%;
+    border: 2px solid #6b7f99;
+    border-radius: 10px;
+    padding: 40px 40px 40px;
+    font-size: 18px;
+    text-align: left;
+}
+.invest .investSection .Present{
+    font-size: 35px;
+    font-weight: bold;
+    color: #fbb461;
+    margin: 18px 0px 10px;
+}
+
+.invest .Features{
+    color: #fbb461;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.invest .Features span{
+    margin: 5px 25px 30px;
+}
+.invest .button1{
+    margin: 70px 0px 0px;
+}
+.invest .button1 .btn{
+    width: 630px;
+    padding: 15px;
+    border-radius: 7px;
+    border: 0px;
+    cursor: pointer;
+    background-color: #FFA310;
+}
+
+.success{
+    text-align: center;
+    color: black;
+    font-size: 80px;
+    background-color: white;
+    padding: 50px;
+}
+.success .button1 .btn{
+    color: white;
+    background-color: #149ef2;
+    border: 0px;
+    cursor: pointer;
+    width: 250px;
+    padding: 15px;
+    border-radius: 5px;
+}

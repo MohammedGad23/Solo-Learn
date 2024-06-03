@@ -1,0 +1,58 @@
+.Register{
+    position: relative;
+    color: white;
+    margin: 8% 0% 10% 0%;
+    width: 100%;
+    background-color: #1f1e28;
+    padding: 0% 0%;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.learn{
+    font-size: 35px;
+    font-weight: bold;
+    width: 40%;
+    padding: 28% 4.5% 0% 3%;
+    text-align: left;
+}
+.Register>div{
+    margin: 20px;
+    display: inline-block;
+}
+.Register .Form{
+    background-color: white;
+    width: 380px;
+    color: black;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: left;
+}
+.Register .Form input{
+    width: 380px;
+    height: 40px;
+    margin: 8px 0px 15px;
+    border-radius: 5px;
+    border: 1px solid #c8c5e4;
+}
+.Register .Form label{
+    font-size: 17px;
+    font-weight: bold;
+}
+input[type=button]{
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #7cc2ee;
+  }
+  .Register .Form a{
+    text-decoration: none;
+    color: #149ef2;
+  }
+  .Register .Form .Links img{
+    width: 110px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-right: 12px;
+  }

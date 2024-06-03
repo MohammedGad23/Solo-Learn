@@ -1,0 +1,69 @@
+.footer{
+    position: relative;
+    background-color: #0c0b10;
+    top: 0px;
+    color: white;
+    padding: 4% 6%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.footer div{
+    margin-right: 4%;
+    max-width: 15%;
+}
+.footer div li{
+    font-size: 20px;
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+.footer div a{
+    text-decoration: none;
+    color: #bac5d5;
+}
+
+.Contact{
+    padding: 4% 2% 3%;
+    background-color: #1f1e28;
+    text-align: center;
+}
+.Contact div{
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.Contact a span{
+    float: left;
+    display: block;
+}
+.Contact div .Yourcontact{
+    width: 120px;
+    margin-left: 10px;
+    margin-top: -4px;
+    text-align: left;
+}
+.Contact a .a{
+    margin: 3px 8px;
+    border: 1px solid white;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.Our{
+    position: relative;
+    background-color: #0c0b10;
+    color: white;
+    padding: 3% 0% 4% 0.7%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Our a{
+    color: #5A6776;
+    margin-left:10px;
+    text-align: left;
+    font-size: 13px;
+    font-weight: bold;
+}
+

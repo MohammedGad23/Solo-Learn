@@ -1,0 +1,91 @@
+.MidComunity .Run img{
+    border-radius: 20px;
+}
+.rightcomuinity div img, .leftcomuinity div img{
+    position: relative;
+    border-radius: 50%;
+}
+.Commuinity .imgs{
+    position: absolute;
+}
+.Commuinity .imgs img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.Commuinity .imgs1, .Commuinity .imgs1 img{
+    width: 50px;
+    height: 50px;
+    left: 9%;
+    top: 15%;
+}
+.Commuinity .imgs2, .Commuinity .imgs2 img{
+    width: 25px;
+    height: 25px;
+    right: 8%;
+    top: 12%;
+}
+
+.Commuinity .imgs3, .Commuinity .imgs3 img{
+    width: 58px;
+    height: 58px;
+    left: 12%;
+    top: 23%;
+}
+.Commuinity .imgs4, .Commuinity .imgs4 img{
+    width: 85px;
+    height: 85px;
+    right: 10%;
+    top: 22%;
+}
+.Commuinity .imgs5, .Commuinity .imgs5 img{
+    width: 85px;
+    height: 85px;
+    left: -1%;
+    top: 28%;
+}
+.Commuinity .imgs6, .Commuinity .imgs6 img{
+    width: 58px;
+    height: 58px;
+    right: 0%;
+    top: 30%;
+}
+.Commuinity .imgs7, .Commuinity .imgs7 img{
+    width: 85px;
+    height: 85px;
+    left: 10%;
+    top: 45%;
+}
+.Commuinity .imgs8, .Commuinity .imgs8 img{
+    width: 25px;
+    height: 25px;
+    left: -1.4%;
+    top: 50%;
+}
+.Commuinity .imgs9, .Commuinity .imgs9 img{
+    width: 25px;
+    height: 25px;
+    right: 15%;
+    top: 47%;
+}
+
+.Commuinity .imgs10, .Commuinity .imgs10 img{
+    width: 130px;
+    height: 130px;
+    right: 0px;
+    top: 42%;
+}
+
+.Commuinity .imgs11, .Commuinity .imgs11 img{
+    width: 140px;
+    height: 140px;
+    left: -1%;
+    top: 65%;
+}
+
+.Commuinity .imgs12, .Commuinity .imgs12 img{
+    width: 85px;
+    height: 85px;
+    right: 10%;
+    top: 65%;
+}
